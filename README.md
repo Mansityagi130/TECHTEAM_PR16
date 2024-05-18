@@ -33,6 +33,16 @@ Features:
 
 4. Responsive design to ensure compatibility with various devices and screen sizes.
 
+## Feature Timeline
+
++  | S.No. | file name | features | merged and pull request at | deadline for commit | done by |
++  | --- | --- | --- | --- | --- | --- | 
++  | 1. | version 1 |
++  | 2. |
++  | 3. |
++  | 4. |
+
+
 Project goals:
 
 1.Optimized User Experience:
