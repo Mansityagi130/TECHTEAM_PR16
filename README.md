@@ -35,12 +35,6 @@ Features:
 
 ## Feature Timeline
 
-+  | S.No. | file name | features | merged and pull request at | deadline for commit | done by |
-+  | --- | --- | --- | --- | --- | --- | 
-+  | 1. | version 1 |
-+  | 2. |
-+  | 3. |
-+  | 4. |
 
 
 Project goals:
