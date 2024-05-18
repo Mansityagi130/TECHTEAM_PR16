@@ -47,8 +47,6 @@ Sure! Here's a condensed version:
 4. **Promotional Marketing:** Showcase deals and new products prominently, and send out email promotions.
 5. **Scalable Performance:** Build a website that can handle high traffic without slowing down.
 
-This simplified version covers the key points for creating a successful e-commerce website.
-
 ## Contributions:
 
 -MANSI TYAGI(2310990733)-Coordinates team activities, ensuring project goals are achieved on schedule.
