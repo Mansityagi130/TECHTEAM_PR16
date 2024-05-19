@@ -35,12 +35,12 @@ Implement the countdown timer functionality. You can use vanilla JavaScript or l
 
 ## Feature Timeline
 
-| S.No. | Feature                                            | Feature Detail                                                                | Deadline   | Progress Status |
-|-------|----------------------------------------------------|-------------------------------------------------------------------------------|------------|-----------------|
-| 1     | Created layout                         (version 1) | commit HTML code files to Manages website structure and content in            | 
-| 2     | visual styling and layout control      (version 2) | Adds CSS code to Git v2 for website styling enhancement.                      | 2024-06-15 | Not Started     |
-| 3     | interactive behavior                   (version 3) | Integrates JavaScript into Git v3 for dynamic website functionalities.        | 2024-07-01 | Not Started     |
-| 4     | modification for better user experience(version 4) | Modified the add to cart page and it Allow users to add/remove items from cart| 2024-07-15 | Not Started     |
+| S.No.| Feature                                            | Feature Detail                                                                | commits upload date | Progress |
+|------|----------------------------------------------------|-------------------------------------------------------------------------------|---------------------|----------|
+| 1    | Created layout                         (version 1) | commit HTML code files to Manages website structure and content in            | 17-05-2024          | completed|
+| 2    | visual styling and layout control      (version 2) | Adds CSS code to Git v2 for website styling enhancement.                      | 18-05-2024          | completed|
+| 3    | interactive behavior                   (version 3) | Integrates JavaScript into Git v3 for dynamic website functionalities.        | 19-05-2024          | completed|
+| 4    | modification for better user experience(version 4) | Modified the add to cart page and it Allow users to add/remove items from cart| 21-05-2024          | completed|
 
 
 ## Project goals:
