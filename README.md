@@ -35,6 +35,12 @@ Implement the countdown timer functionality. You can use vanilla JavaScript or l
 
 ## Feature Timeline
 
+| S.No. | Feature                | Feature Detail                                | Deadline   | Progress Status |
+|-------|------------------------|-----------------------------------------------|------------|-----------------|-----------------|
+| 1     | Design UI              | Create visually appealing UI design           | 2024-06-01 | In Progress     |
+| 2     | Implement Frontend     | Develop frontend using HTML, CSS, JavaScript  | 2024-06-15 | Not Started     |
+| 3     | Product Listing        | Display products with images and descriptions | 2024-07-01 | Not Started     |
+| 4     | Shopping Cart          | Allow users to add/remove items from cart     | 2024-07-15 | Not Started     |
 
 
 ## Project goals:
