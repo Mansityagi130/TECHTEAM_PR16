@@ -6,6 +6,9 @@ E-Commerce Shopping Website
 
 Our e-commerce website project blends HTML, CSS, and JavaScript to craft a seamless shopping experience. Leveraging these technologies, we design an intuitive interface, ensuring smooth navigation and dynamic functionality. From product listings to checkout, our site promises a user-friendly journey for online shoppers.
 
+## Glimps:
+![image](https://github.com/Mansityagi130/TECHTEAM_PR16/assets/156739875/912a2c38-b9c4-43cf-808e-b73bce691e78)
+
 ## Team Members:
 
 1. Manshika    (Roll no. 2310990732)
@@ -40,7 +43,7 @@ Implement the countdown timer functionality. You can use vanilla JavaScript or l
 | 1    | Created layout                         (version 1) | commit HTML code files to Manages website structure and content in            | 17-05-2024          | completed|
 | 2    | visual styling and layout control      (version 2) | Adds CSS code to Git v2 for website styling enhancement.                      | 18-05-2024          | completed|
 | 3    | interactive behavior                   (version 3) | Integrates JavaScript into Git v3 for dynamic website functionalities.        | 19-05-2024          | completed|
-| 4    | modification for better user experience(version 4) | Modified the add to cart page and it Allow users to add/remove items from cart| 21-05-2024          | completed|
+| 4    | modification for better user experience(version 4) | Modified the add to cart page and it Allow users to add/remove items from cart| 20-05-2024          | completed|
 
 
 ## Project goals:
